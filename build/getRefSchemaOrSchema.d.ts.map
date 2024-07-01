@@ -1,0 +1,1 @@
+{"version":3,"file":"getRefSchemaOrSchema.d.ts","sourceRoot":"","sources":["../src/getRefSchemaOrSchema.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,qBAAqB,CAAC;AAC7D,OAAO,EAAE,mBAAmB,EAAE,MAAM,qBAAqB,CAAC;AAE1D;;GAEG;AACH,eAAO,MAAM,oBAAoB,gBAClB,mBAAmB,GAAG,sBAAsB,cAC7C,OAAO,MAAM,EAAE,mBAAmB,CAAC,GAAG,SAAS,KAC1D,mBAAmB,GAAG,SAkBxB,CAAC"}
