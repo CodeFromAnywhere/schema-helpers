@@ -1,4 +1,4 @@
-import { SimplifiedSchema } from "from-anywhere/types";
+import { SimplifiedSchema } from "edge-util";
 /**
  * Converts a simplifiedSchema definition back into a type interface string
  *

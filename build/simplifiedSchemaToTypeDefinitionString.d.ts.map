@@ -1,1 +1,1 @@
-{"version":3,"file":"simplifiedSchemaToTypeDefinitionString.d.ts","sourceRoot":"","sources":["../src/simplifiedSchemaToTypeDefinitionString.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,qBAAqB,CAAC;AACvD;;;;;;GAMG;AACH,eAAO,MAAM,sCAAsC,sBAC9B,gBAAgB,WAsDpC,CAAC"}
+{"version":3,"file":"simplifiedSchemaToTypeDefinitionString.d.ts","sourceRoot":"","sources":["../src/simplifiedSchemaToTypeDefinitionString.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,WAAW,CAAC;AAC7C;;;;;;GAMG;AACH,eAAO,MAAM,sCAAsC,sBAC9B,gBAAgB,WAsDpC,CAAC"}

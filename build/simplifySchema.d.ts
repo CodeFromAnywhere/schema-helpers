@@ -1,4 +1,4 @@
-import { SimplifiedSchema } from "from-anywhere/types";
+import { SimplifiedSchema } from "edge-util";
 import { JSONSchema7 } from "json-schema";
 /**
  Return a SimplifiedSchema by giving the JSONSchema7 schema, its name and a list of possible references in the JSONSchema.

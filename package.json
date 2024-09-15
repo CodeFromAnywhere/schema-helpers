@@ -8,13 +8,13 @@
     "@types/json-schema": "^7.0.15"
   },
   "dependencies": {
-    "from-anywhere": "0.0.38"
+    "edge-util": "^0.0.51"
   },
   "description": "It's hard to work with them if you don't know what means what. In this operation I'll summarize everything and give examples.",
   "scripts": {
     "up": "npm version patch -f",
     "pub": "yarn up && npm publish"
   },
-  "version": "0.0.1",
+  "version": "0.0.5",
   "type": "module"
 }

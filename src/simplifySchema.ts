@@ -1,9 +1,9 @@
-import { notEmpty } from "from-anywhere";
+import { notEmpty } from "edge-util";
 import {
   SimplifiedSchema,
   SimplifiedSchemaItem,
   SimplifiedSchemaProperty,
-} from "from-anywhere/types";
+} from "edge-util";
 import { JSONSchema7 } from "json-schema";
 import { findFirstCommentTypes } from "./findFirstCommentTypes.js";
 import { getRefLink } from "./getRefLink.js";

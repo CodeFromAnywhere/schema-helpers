@@ -1,4 +1,4 @@
-import { SimplifiedSchema } from "from-anywhere/types";
+import { SimplifiedSchema } from "edge-util";
 import { getReferenceParameterInfo } from "./getReferenceParameterInfo.js";
 import { ReferenceParameterInfo } from "./getReferenceParameterInfo.js";
 /**

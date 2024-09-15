@@ -1,5 +1,5 @@
-import { makeArray } from "from-anywhere";
-import { notEmpty } from "from-anywhere";
+import { makeArray } from "edge-util";
+import { notEmpty } from "edge-util";
 //==========
 /**
  * Since `JSONSchema7`'s property `items` is fairly hard to use, this function gets that property in an easier to use way.

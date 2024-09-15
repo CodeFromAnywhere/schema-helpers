@@ -1,5 +1,5 @@
-import { TsIndexModelType } from "from-anywhere/types";
-import { Frontmatter } from "from-anywhere/types";
+import { TsIndexModelType } from "edge-util";
+import { Frontmatter } from "edge-util";
 export declare const commentTypesConst: readonly ["todo", "discussion", "idea", "later", "nb", "title", "section", "description"];
 export declare const commentTypes: ("todo" | "discussion" | "idea" | "later" | "nb" | "title" | "section" | "description")[];
 /**

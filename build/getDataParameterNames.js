@@ -1,4 +1,4 @@
-import { notEmpty } from "from-anywhere";
+import { notEmpty } from "edge-util";
 import { getReferenceParameterInfo } from "./getReferenceParameterInfo.js";
 /**
  * Finds all the data parameter names that might be there on an item, based on the item object keys and the convention

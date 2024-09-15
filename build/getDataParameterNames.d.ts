@@ -1,4 +1,4 @@
-import { AugmentedAnyModelType } from "from-anywhere/types";
+import { AugmentedAnyModelType } from "edge-util";
 /**
  * Finds all the data parameter names that might be there on an item, based on the item object keys and the convention
  */

@@ -1,7 +1,7 @@
 import { CommentTypeObject } from "./TsComment.js";
 import { commentTypes } from "./TsComment.js";
-import { mergeObjectsArray } from "from-anywhere";
-import { notEmpty } from "from-anywhere";
+import { mergeObjectsArray } from "edge-util";
+import { notEmpty } from "edge-util";
 /**
  * Tries to find tie first appearing special comment line and parses it and returns it as part of the `CommentTypeObject`
  */

@@ -1,5 +1,5 @@
-import { TsIndexModelType } from "from-anywhere/types";
-import { Frontmatter } from "from-anywhere/types";
+import { TsIndexModelType } from "edge-util";
+import { Frontmatter } from "edge-util";
 export const commentTypesConst = [
   // dev
   "todo",

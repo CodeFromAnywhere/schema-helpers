@@ -1,12 +1,12 @@
 const referenceParameterNames = ["slug", "id"];
 // NB: misspelling on purpose to keep simple parsing from singular to plural
 const referencePluralParameterNames = ["slugs", "ids"];
-import { lowerCaseArray } from "from-anywhere";
-import { pascalCase } from "from-anywhere";
-import { capitaliseFirstLetter } from "from-anywhere";
-import { isPlural } from "from-anywhere";
-import { singularize } from "from-anywhere";
-import { replaceLastOccurence } from "from-anywhere";
+import { lowerCaseArray } from "edge-util";
+import { pascalCase } from "edge-util";
+import { capitaliseFirstLetter } from "edge-util";
+import { isPlural } from "edge-util";
+import { singularize } from "edge-util";
+import { replaceLastOccurence } from "edge-util";
 /**
  Takes a parameterName and returns information about it according to the convention `{descriptorName}_{modelName}{referenceKey}` where:
  

@@ -1,4 +1,4 @@
-import { notEmpty } from "from-anywhere";
+import { notEmpty } from "edge-util";
 import { findFirstCommentTypes } from "./findFirstCommentTypes.js";
 import { getRefLink } from "./getRefLink.js";
 import { getPossibleReferenceParameterNames } from "./getReferenceParameterInfo.js";

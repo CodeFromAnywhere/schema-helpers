@@ -1,4 +1,4 @@
-import { notEmpty, takeFirst } from "from-anywhere";
+import { notEmpty, takeFirst } from "edge-util";
 import { JSONSchema7 } from "json-schema";
 
 export const getDotnotationVariablesRecursive = (

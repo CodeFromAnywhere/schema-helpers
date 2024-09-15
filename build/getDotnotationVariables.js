@@ -1,4 +1,4 @@
-import { notEmpty, takeFirst } from "from-anywhere";
+import { notEmpty, takeFirst } from "edge-util";
 export const getDotnotationVariablesRecursive = (schema) => {
     if (!schema.properties) {
         return;
